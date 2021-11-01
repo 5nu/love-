@@ -1,7 +1,7 @@
 import turtle as t
 pen1 = t.Turtle()
 pen2 = t.Turtle()
-pen1.color("Cadmium green")
+pen1.color("red")
 pen1.width(3)
 pen2.color("red")
 pen2.width(3)
